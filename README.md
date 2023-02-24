@@ -1,7 +1,7 @@
-######################## 
+######################## </br>
 D6-D7-Open-Data-CSV-e-XML
-Esercizio 1 su Excel e le Funzioni Somma e Media
-########################
+Esercizio 1 su Excel e le Funzioni Somma e Media</br>
+########################</br>
 Esercizio 2 su Excel  Data Preparation
 "La Data Preparation consente di raccogliere, combinare, strutturare ed organizzare i dati in modo da renderli fruibili alle tipologie di analisi disciplinate dalla Business Intelligence (analisi descrittiva) o dalla Business Analytics (analisi predittiva e prescrittiva). La preparazione dei dati è un processo molto articolato, ma cruciale nel garantire una qualità dei dati adeguata ad estrarre informazioni di valore.
 
